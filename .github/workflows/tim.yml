@@ -1,0 +1,15 @@
+name: "TIM Sync"
+
+on: push
+
+jobs:
+    sync:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: JYU-DI/timsync@main
+              with:
+                  host: https://tim.jyu.fi
+                  folder_root: ${{ secrets.TIM_FOLDER_ROOT }}
+                  username: ${{ secrets.TIM_USERNAME }}
+                  password: ${{ secrets.TIM_PASSWORD }}
