@@ -4,9 +4,6 @@ Perustuu
 <a href="https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io"> HY:n ohjelmistotuotantomateriaaliin</a>
 
 ## Paikallinen esikatselu kurssimateriaalista
-```bash
-docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 -it mluukkai/kastomjekyl jekyll serve --watch --drafts
-```
 
 [ohjelmistotuotanto-hy.github.io](https://ohjelmistotuotanto-hy.github.io)
 
