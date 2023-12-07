@@ -3,6 +3,8 @@
 Perustuu
 <a href="https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io"> HY:n ohjelmistotuotantomateriaaliin</a>
 
+[**Testisivu TIMissa**](https://tim.jyu.fi/view/users/dezhidki/opetus/ohjelmistotuotanto-di/2024/koti)
+
 ## Paikallinen esikatselu kurssimateriaalista
 
 [ohjelmistotuotanto-hy.github.io](https://ohjelmistotuotanto-hy.github.io)
